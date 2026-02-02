@@ -4,7 +4,7 @@
 #
 
 # Track this specific unitypackage
-!Camera Shake/CustomPackages/CameraShake.unitypackage
+!/[Cc]ustomPackages/CameraShake.unitypackage
 
 .utmp/
 /[Ll]ibrary/
